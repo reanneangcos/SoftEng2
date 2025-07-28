@@ -138,7 +138,7 @@ const LoginPage = () => {
                 />
               </div>
               
-              <button type="submit" className="auth-button"  >
+              <button type="submit" className="auth-button"  > 
                 Login
               </button>
              
